@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #0a0a0a;
+  background: #ffffff;
   background-size: cover;
   left: 0;
   right: 0;
@@ -99,7 +99,7 @@ svg {
 }
 
 #header h1 a, #header h1 a:hover {
-  color: #dee2e6;
+  color: #000000;
   line-height: 1;
   display: inline-block;
 }
