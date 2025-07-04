@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #ffffff;
+  background: #000000;
   background-size: cover;
   left: 0;
   right: 0;
@@ -184,7 +184,7 @@ svg {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #000000;
+  color: #ffffff;
   font-size: 19px;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
